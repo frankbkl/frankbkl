@@ -27,6 +27,7 @@
 - 搭建 Linux + Docker 运维环境
 - 用 n8n 实现 IT 自动化（告警 / 巡检 / 通知）
 - 学习网络与操作系统底层原理
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
 ---
 
