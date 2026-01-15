@@ -31,4 +31,4 @@
 
 📫 联系我：
 - GitHub: https://github.com/frankbkl
-- X:https://img.shields.io/twitter/follow/znsip
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/znsip)
