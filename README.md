@@ -27,8 +27,15 @@
 - 搭建 Linux + Docker 运维环境
 - 用 n8n 实现 IT 自动化（告警 / 巡检 / 通知）
 - 学习网络与操作系统底层原理
-- 
+
+---
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?logo=linux&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=FCC624)
+
 
 ---
 
